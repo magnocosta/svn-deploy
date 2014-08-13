@@ -1,4 +1,6 @@
 #!/bin/bash
+# teste
+
 PROJETO='help-word'
 REPOSITORIO='http://teste.com/svn'
 URL=${REPOSITORIO}${PROJETO}'/tags'
